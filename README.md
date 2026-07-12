@@ -378,6 +378,7 @@ architecture/       Accepted language, compiler, runtime, and tooling contract
 architecture/decisions/
                     Accepted Architecture Decision Records
 crates/compiler/    Syntax, resolution, types, compile time, HIR, MIR, drivers
+crates/extensions/  Independent Pop.Data/Ai/Cli/Rpc/Syntax/Lsp Package builds
 crates/runtime/     PLRI and bootstrap/native runtime contracts
 crates/tools/       Architecture tests, formatter, documentation, CLI tooling
 libraries/internal/ Pop.Internal bootstrap foundations
